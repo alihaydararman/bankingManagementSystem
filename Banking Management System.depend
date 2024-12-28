@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1735405733 source:c:\users\ali haydar\onedrive\desktop\software development project\banking management system\account.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1735405689 source:c:\users\ali haydar\onedrive\desktop\software development project\banking management system\login.c
+	<stdio.h>
+	<string.h>
+	"login.h"
+
+1735405649 c:\users\ali haydar\onedrive\desktop\software development project\banking management system\login.h
+
+1735405628 source:c:\users\ali haydar\onedrive\desktop\software development project\banking management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+	"account.h"
+
+1735405708 c:\users\ali haydar\onedrive\desktop\software development project\banking management system\account.h
+
